@@ -1,1 +1,48 @@
 file changes
+commit fb9f56b032910292e05a64ef8085fab3a3d53363
+Author: Jonathan A Tesch <jtesch@jpl.nasa.gov>
+Date:   Fri May 12 00:20:45 2017 -0700
+
+    Songs
+
+commit 718b865c987f1e31c0227589e74d8a0728d04b30
+Author: Jonathan A Tesch <jtesch@jpl.nasa.gov>
+Date:   Thu May 11 23:54:52 2017 -0700
+
+    Many changes
+
+commit 03718b6e0757d4d7541a41efbeb0915998d226d3
+Author: Jonathan A Tesch <jtesch@jpl.nasa.gov>
+Date:   Thu May 11 23:53:05 2017 -0700
+
+    Made changes to ex.txt
+
+commit d8f7ebbe283fb5efc7bf95908e0fb17f44ec1bf2
+Author: Jonathan A Tesch <jtesch@jpl.nasa.gov>
+Date:   Thu May 11 23:51:39 2017 -0700
+
+    Changes
+
+commit 2bf7b334f2d395fa9aed955d1ef94d747e638f37
+Author: Jonathan A Tesch <jtesch@jpl.nasa.gov>
+Date:   Thu May 11 23:50:27 2017 -0700
+
+    Added test text
+
+commit f51a6d1862dfca76e2ac020afc8ae54331918190
+Author: Jonathan A Tesch <jtesch@jpl.nasa.gov>
+Date:   Thu May 11 23:49:02 2017 -0700
+
+    MOre changes
+
+commit bed9652d266fb5d63ec3817018cf5f4be4b65b5d
+Author: Jonathan A Tesch <jtesch@jpl.nasa.gov>
+Date:   Thu May 11 23:42:13 2017 -0700
+
+    Made changes
+
+commit 2a9d8cdb28d3f6bbc9aff2bfd47206e768c7942b
+Author: Jonathan A Tesch <jtesch@jpl.nasa.gov>
+Date:   Thu May 11 23:30:16 2017 -0700
+
+    Initial commit
